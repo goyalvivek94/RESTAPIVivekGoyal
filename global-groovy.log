@@ -1,0 +1,63 @@
+2020-12-04 10:30:16,384 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:30:16,572 INFO  [log] TestCase 1
+2020-12-04 10:30:16,586 INFO  [log] TestSuite 1
+2020-12-04 10:30:16,658 INFO  [log] {"success":1,"error":[],"data":{"access_token":"1feea3fe56e66585d99013df42f47ab92f4ead66","expires_in":86400,"token_type":"Bearer"}}
+2020-12-04 10:30:16,695 INFO  [log] {data={access_token=1feea3fe56e66585d99013df42f47ab92f4ead66, token_type=Bearer, expires_in=86400}, success=1, error=[]}
+2020-12-04 10:30:16,698 INFO  [log] 1feea3fe56e66585d99013df42f47ab92f4ead66
+2020-12-04 10:30:17,572 INFO  [log] upskills_admin
+2020-12-04 10:30:17,573 INFO  [log] Talent4$$
+2020-12-04 10:30:17,658 INFO  [log] Body for login test case will be{"username":"upskills_admin","password":"Talent4$$"}
+2020-12-04 10:30:18,114 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"150.242.86.241","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-12-04 10:30:18,115 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:30:18,117 INFO  [log] upskills_admin
+2020-12-04 10:30:18,558 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"125.62.108.141","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-12-04 10:30:18,559 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:30:18,563 INFO  [log] upskills_admin
+2020-12-04 10:30:18,980 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:30:19,441 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:30:19,555 INFO  [log] TestCase 2
+2020-12-04 10:30:19,556 INFO  [log] TestSuite 1
+2020-12-04 10:30:19,557 INFO  [log] {"success":1,"error":[],"data":{"access_token":"be99a0c5fe71be1eeaedbc30c024b72698830bde","expires_in":86400,"token_type":"Bearer"}}
+2020-12-04 10:30:19,558 INFO  [log] {data={access_token=be99a0c5fe71be1eeaedbc30c024b72698830bde, token_type=Bearer, expires_in=86400}, success=1, error=[]}
+2020-12-04 10:30:19,559 INFO  [log] be99a0c5fe71be1eeaedbc30c024b72698830bde
+2020-12-04 10:30:19,969 INFO  [log] upskills_admin
+2020-12-04 10:30:19,970 INFO  [log] Talent4$$
+2020-12-04 10:30:19,971 INFO  [log] Body for login test case will be{"username":"upskills_admin","password":"Talent4$$"}
+2020-12-04 10:30:20,404 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"125.62.108.141","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-12-04 10:30:20,405 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:30:20,407 INFO  [log] upskills_admin
+2020-12-04 10:36:23,450 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:36:23,619 INFO  [log] TestCase 1
+2020-12-04 10:36:23,631 INFO  [log] TestSuite 1
+2020-12-04 10:36:23,714 INFO  [log] {"success":1,"error":[],"data":{"access_token":"c64fb6116b4e7ffce20c635e7b8b7e2b7ed83f70","expires_in":86400,"token_type":"Bearer"}}
+2020-12-04 10:36:23,753 INFO  [log] {data={access_token=c64fb6116b4e7ffce20c635e7b8b7e2b7ed83f70, token_type=Bearer, expires_in=86400}, success=1, error=[]}
+2020-12-04 10:36:23,757 INFO  [log] c64fb6116b4e7ffce20c635e7b8b7e2b7ed83f70
+2020-12-04 10:36:24,606 INFO  [log] upskills_admin
+2020-12-04 10:36:24,615 INFO  [log] Talent4$$
+2020-12-04 10:36:24,689 INFO  [log] Body for login test case will be{"username":"upskills_admin","password":"Talent4$$"}
+2020-12-04 10:36:25,151 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"49.36.173.126","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-12-04 10:36:25,156 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:36:25,160 INFO  [log] upskills_admin
+2020-12-04 10:36:25,580 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"125.62.108.141","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-12-04 10:36:25,584 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:36:25,587 INFO  [log] upskills_admin
+2020-12-04 10:36:25,992 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:36:26,497 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:36:26,576 INFO  [log] TestCase 2
+2020-12-04 10:36:26,577 INFO  [log] TestSuite 1
+2020-12-04 10:36:26,580 INFO  [log] {"success":1,"error":[],"data":{"access_token":"aa34e15367ba1049ddf29c56f12a3a38b839f927","expires_in":86400,"token_type":"Bearer"}}
+2020-12-04 10:36:26,584 INFO  [log] {data={access_token=aa34e15367ba1049ddf29c56f12a3a38b839f927, token_type=Bearer, expires_in=86400}, success=1, error=[]}
+2020-12-04 10:36:26,587 INFO  [log] aa34e15367ba1049ddf29c56f12a3a38b839f927
+2020-12-04 10:36:27,044 INFO  [log] upskills_admin
+2020-12-04 10:36:27,045 INFO  [log] Talent4$$
+2020-12-04 10:36:27,048 INFO  [log] Body for login test case will be{"username":"upskills_admin","password":"Talent4$$"}
+2020-12-04 10:36:27,472 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"125.62.108.141","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-12-04 10:36:27,497 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:36:27,501 INFO  [log] upskills_admin
+2020-12-04 10:36:30,087 INFO  [log] {"success":1,"error":[],"data":{"id":3611}}
+2020-12-04 10:36:30,094 INFO  [log] {data={id=3611}, success=1, error=[]}
+2020-12-04 10:36:30,095 INFO  [log] 3611
+2020-12-04 10:36:30,097 INFO  [log] {"success":1,"error":[],"data":{"id":3360}}
+2020-12-04 10:36:30,098 INFO  [log] {data={id=3360}, success=1, error=[]}
+2020-12-04 10:36:30,098 INFO  [log] 3360
+2020-12-04 10:36:31,008 INFO  [log] [HTTP/1.1 200 OK]

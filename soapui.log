@@ -1,0 +1,72 @@
+2020-12-04 10:36:16,893 WARN  [SoapUI] Missing folder [C:\Users\Vivek\RESTProjectVivek\ext] for external libraries
+2020-12-04 10:36:17,207 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\Vivek\soapui-settings.xml]
+2020-12-04 10:36:20,958 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Vivek/RESTProjectVivek/RESTSDETRoshanBatchVivekGoyal.xml]
+2020-12-04 10:36:21,732 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [RESTSDETRoshanBatchVivekGoyal]
+2020-12-04 10:36:21,737 INFO  [SoapUITestCaseRunner] Running Project [RESTSDETRoshanBatchVivekGoyal], runType = SEQUENTIAL
+2020-12-04 10:36:21,790 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestCase 1]
+2020-12-04 10:36:21,803 INFO  [SoapUITestCaseRunner] running step [TokenGeneration]
+2020-12-04 10:36:23,450 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:36:23,473 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-04 10:36:23,474 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2020-12-04 10:36:23,619 INFO  [log] TestCase 1
+2020-12-04 10:36:23,631 INFO  [log] TestSuite 1
+2020-12-04 10:36:23,714 INFO  [log] {"success":1,"error":[],"data":{"access_token":"c64fb6116b4e7ffce20c635e7b8b7e2b7ed83f70","expires_in":86400,"token_type":"Bearer"}}
+2020-12-04 10:36:23,753 INFO  [log] {data={access_token=c64fb6116b4e7ffce20c635e7b8b7e2b7ed83f70, token_type=Bearer, expires_in=86400}, success=1, error=[]}
+2020-12-04 10:36:23,757 INFO  [log] c64fb6116b4e7ffce20c635e7b8b7e2b7ed83f70
+2020-12-04 10:36:24,606 INFO  [log] upskills_admin
+2020-12-04 10:36:24,615 INFO  [log] Talent4$$
+2020-12-04 10:36:24,689 INFO  [log] Body for login test case will be{"username":"upskills_admin","password":"Talent4$$"}
+2020-12-04 10:36:24,704 INFO  [SoapUITestCaseRunner] running step [Login]
+2020-12-04 10:36:25,151 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"49.36.173.126","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-12-04 10:36:25,156 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:36:25,160 INFO  [log] upskills_admin
+2020-12-04 10:36:25,164 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-04 10:36:25,165 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2020-12-04 10:36:25,167 INFO  [SoapUITestCaseRunner] running step [GetAdminAccDetails]
+2020-12-04 10:36:25,580 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"125.62.108.141","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-12-04 10:36:25,584 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:36:25,587 INFO  [log] upskills_admin
+2020-12-04 10:36:25,589 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2020-12-04 10:36:25,590 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-04 10:36:25,592 INFO  [SoapUITestCaseRunner] running step [LogoutAdminUser]
+2020-12-04 10:36:25,992 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:36:25,993 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-04 10:36:25,994 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-12-04 10:36:26,021 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestCase 1], time taken: 3210ms, status: FINISHED
+2020-12-04 10:36:26,024 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestCase 2]
+2020-12-04 10:36:26,027 INFO  [SoapUITestCaseRunner] running step [TokenGeneration]
+2020-12-04 10:36:26,497 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:36:26,508 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-04 10:36:26,509 INFO  [SoapUITestCaseRunner] running step [Groovy Script1]
+2020-12-04 10:36:26,576 INFO  [log] TestCase 2
+2020-12-04 10:36:26,577 INFO  [log] TestSuite 1
+2020-12-04 10:36:26,580 INFO  [log] {"success":1,"error":[],"data":{"access_token":"aa34e15367ba1049ddf29c56f12a3a38b839f927","expires_in":86400,"token_type":"Bearer"}}
+2020-12-04 10:36:26,584 INFO  [log] {data={access_token=aa34e15367ba1049ddf29c56f12a3a38b839f927, token_type=Bearer, expires_in=86400}, success=1, error=[]}
+2020-12-04 10:36:26,587 INFO  [log] aa34e15367ba1049ddf29c56f12a3a38b839f927
+2020-12-04 10:36:27,044 INFO  [log] upskills_admin
+2020-12-04 10:36:27,045 INFO  [log] Talent4$$
+2020-12-04 10:36:27,048 INFO  [log] Body for login test case will be{"username":"upskills_admin","password":"Talent4$$"}
+2020-12-04 10:36:27,050 INFO  [SoapUITestCaseRunner] running step [Login]
+2020-12-04 10:36:27,472 INFO  [log] {"success":1,"error":[],"data":{"user_id":"1","user_group_id":"1","username":"upskills_admin","firstname":"John","lastname":"Doe","email":"probitstechnologies@gmail.com","image":"","ip":"125.62.108.141","status":"1","date_added":"2019-11-11 07:59:33","user_group":"Administrator"}}
+2020-12-04 10:36:27,497 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:36:27,501 INFO  [log] upskills_admin
+2020-12-04 10:36:27,503 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-04 10:36:27,504 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2020-12-04 10:36:27,505 INFO  [SoapUITestCaseRunner] running step [AddCustomer]
+2020-12-04 10:36:29,647 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2020-12-04 10:36:29,648 INFO  [SoapUITestCaseRunner] running step [AddProduct]
+2020-12-04 10:36:30,026 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2020-12-04 10:36:30,027 INFO  [SoapUITestCaseRunner] running step [Groovy Script2]
+2020-12-04 10:36:30,087 INFO  [log] {"success":1,"error":[],"data":{"id":3611}}
+2020-12-04 10:36:30,094 INFO  [log] {data={id=3611}, success=1, error=[]}
+2020-12-04 10:36:30,095 INFO  [log] 3611
+2020-12-04 10:36:30,097 INFO  [log] {"success":1,"error":[],"data":{"id":3360}}
+2020-12-04 10:36:30,098 INFO  [log] {data={id=3360}, success=1, error=[]}
+2020-12-04 10:36:30,098 INFO  [log] 3360
+2020-12-04 10:36:30,117 INFO  [SoapUITestCaseRunner] running step [CreateOrder]
+2020-12-04 10:36:31,008 INFO  [log] [HTTP/1.1 200 OK]
+2020-12-04 10:36:31,011 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2020-12-04 10:36:31,013 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-04 10:36:31,014 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-12-04 10:36:31,017 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestCase 2], time taken: 4764ms, status: FINISHED
+2020-12-04 10:36:31,018 INFO  [SoapUITestCaseRunner] Project [RESTSDETRoshanBatchVivekGoyal] finished with status [FINISHED] in 9270ms
